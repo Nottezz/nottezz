@@ -12,8 +12,8 @@
 ##
 Помимо тестирования занимаюсь разработкой. Осной язык - Python, но так же интересуюсь JavaScript совместно с HTML & CSS. 
 
-Собственный сайт -           
-Игра "Угаадй число" - 
+Собственный сайт - https://nottezz.github.io/myportfolio/           
+Игра "Угаадй число" - https://nottezz.github.io/number-guessing-game/
 
 ## Cвязь со мной 
 
@@ -23,18 +23,3 @@
 
 
 
-
-<!--
-**Nottezz/nottezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
