@@ -10,9 +10,9 @@
 * Написание тест-кейсов
 * Создание чек-листов 
 ##
-Помимо тестирования занимаюсь разработкой. Осной язык - Python, но так же интересуюсь JavaScript совместно с HTML & CSS. 
+Помимо тестирования интересуюсь разработкой. Осной язык - Python, но так же интересуюсь JavaScript совместно с HTML & CSS. 
 
-Собственный сайт - https://nottezz.github.io/myportfolio/           
+Сайт с портфолио - https://nottezz.github.io/myportfolio/           
 Игра "Угаадй число" - https://nottezz.github.io/number-guessing-game/
 
 ## Cвязь со мной 
