@@ -1,18 +1,27 @@
 # Всем привет!👋
 
 Меня зовут Никита. Я являюсь специалистом по тестированию игр на разных платформах - мобильные, компьютерные, VR. 
+#
 
-## Мои навыки  
+Помимо тестирования интересуюсь разработкой и автоматизацией тестирования. Осной язык - Python, но так же интересуюсь JavaScript совместно с HTML & CSS. 
 
-* Функциональное тестирование
-* Регрессионное тестирование
-* Тестирование интерфейсов 
-* Написание тест-кейсов
-* Создание чек-листов 
-##
-Помимо тестирования интересуюсь разработкой. Осной язык - Python, но так же интересуюсь JavaScript совместно с HTML & CSS. 
+## [Automatic Selenium Test](https://github.com/Nottezz/saucedemo_automation_test)
 
-Сайт с портфолио - https://nottezz.github.io/myportfolio/           
+https://user-images.githubusercontent.com/116362682/219500202-90a75300-8174-412b-af98-9377677478ea.mp4
+
+
+-------
+
+
+##  [User registration, authorization and password recovery system](https://github.com/Nottezz/registration-)
+
+https://user-images.githubusercontent.com/116362682/219500567-53ab3733-71f6-4619-a6a3-c096e6ae1206.mp4
+# And Other
+
+
+
+
+Сайт с портфолио и навыками - https://nottezz.github.io/myportfolio/           
 Игра "Угаадй число" - https://nottezz.github.io/number-guessing-game/
 
 ## Cвязь со мной 
