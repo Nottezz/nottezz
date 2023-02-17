@@ -7,8 +7,7 @@
 
 ## [Automatic Selenium Test](https://github.com/Nottezz/saucedemo_automation_test)
 
-https://user-images.githubusercontent.com/116362682/219500202-90a75300-8174-412b-af98-9377677478ea.mp4
-
+https://user-images.githubusercontent.com/116362682/219574138-b9ac9de4-c7ff-4a81-8fe5-0c496a64d5f9.mp4
 
 -------
 
