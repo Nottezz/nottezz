@@ -20,7 +20,6 @@ https://user-images.githubusercontent.com/116362682/219500567-53ab3733-71f6-4619
 
 
 
-Сайт с портфолио и навыками - https://nottezz.github.io/myportfolio/           
 Игра "Угаадй число" - https://nottezz.github.io/number-guessing-game/
 
 ## Cвязь со мной 
