@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/Nottezz" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2264F7&width=435&lines=Middle+game+QA+from+Russia" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1637BD&width=435&lines=Web+Technologies" alt="Typing SVG" /></a>
 </div>
 
 
