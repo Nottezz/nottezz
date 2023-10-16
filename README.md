@@ -35,7 +35,5 @@
 
 
 <div align='center'>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nottezz&theme=highcontrast&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/652d5386f43a58c923d8dd48?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
 </div>
