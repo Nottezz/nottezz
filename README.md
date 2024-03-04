@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/Nottezz" target="_blank">Nikita</a> 
+23<h1 align="center">Hi there, I'm <a href="https://t.me/Nottezz" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=1637BD&center=true&width=435&lines=Web+Technologies" alt="Typing SVG">
@@ -35,5 +35,5 @@
 
 
 <div align='center'>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/652d5386f43a58c923d8dd48?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/652d5386f43a58c923d8dd48?variant=dark&roadmaps=qa" alt="roadmap.sh"/></a>
 </div>
