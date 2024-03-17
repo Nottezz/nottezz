@@ -1,4 +1,4 @@
-23<h1 align="center">Hi there, I'm <a href="https://t.me/Nottezz" target="_blank">Nikita</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/Nottezz" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=1637BD&center=true&width=435&lines=Web+Technologies" alt="Typing SVG">
