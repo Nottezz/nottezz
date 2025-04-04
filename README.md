@@ -6,7 +6,7 @@
 <p>🚗 Люблю машины и никогда не пил кофе</p>
 
 # My projects
-### 📼 -> 💿 [Format Fusion](https://github.com/Nottezz/format-fusion-cli)
+### 💿 [Format Fusion](https://github.com/Nottezz/format-fusion-cli)
 Консольный помощник для преобразования данных из одного формата в другой.
 
 ### ☁️ [WeatherBot](https://github.com/Nottezz/WeatherBot)
