@@ -6,6 +6,12 @@
 <p>🚗 Люблю машины и никогда не пил кофе</p>
 
 # My projects
+### 🎥 [FastAPI Movie Catalog](https://github.com/Nottezz/FastAPI-Movie-Catalog)
+FastAPI приложение, отображающее каталог фильмов [IN-PROGRESS]
+
+### 💻 [FastAPI Url Shortener](https://github.com/Nottezz/fastapi-url-shortener)
+Сервис для создания коротких ссылок. [IN-PROJRESS]
+
 ### 💿 [Format Fusion](https://github.com/Nottezz/format-fusion-cli)
 Консольный помощник для преобразования данных из одного формата в другой.
 
