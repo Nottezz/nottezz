@@ -1,22 +1,56 @@
-# Привет! 👋  Я - Никита.
+# Hi there! 👋 I'm Nikita
 
-<p>🐍 Люлю веб разработку и Python</p>
-<p>🧑‍💻 В 18 лет не люблил программирование, не понимал вообще все эти технологии -> в 20 лет устроился в IT-компанию и не могу жить без технологий</p>
-<p>🚗 Люблю машины и никогда не пил кофе</p>
+<p>🐍 I’m a passionate web developer and Python enthusiast.</p>
+<p>🧑‍💻 At 18, I had no idea how technology worked — at 20, I joined an IT company and now can’t imagine life without it.</p>
+<p>🚗 I love cars and have never had a single cup of coffee.</p>
 
-# My projects
+---
+
+## 🚀 My Projects
+
 ### 🎥 [FastAPI Movie Catalog](https://github.com/Nottezz/FastAPI-Movie-Catalog)
-FastAPI приложение, отображающее каталог фильмов [IN-PROGRESS]
+A FastAPI web application displaying a movie catalog. **[IN-PROGRESS]**
 
-### 💻 [FastAPI Url Shortener](https://github.com/Nottezz/fastapi-url-shortener)
-Сервис для создания коротких ссылок. [IN-PROGRESS]
+### 💻 [FastAPI URL Shortener](https://github.com/Nottezz/fastapi-url-shortener)
+A service for creating short links. **[IN-PROGRESS]**
 
 ### 💿 [Format Fusion](https://github.com/Nottezz/format-fusion-cli)
-Консольный помощник для преобразования данных из одного формата в другой.
+A console assistant for converting data between different formats.
 
-### ☁️ [WeatherBot](https://github.com/Nottezz/WeatherBot)
-Телеграмм бот, отображающий погодные условия.
+## 🧩 Contributed Projects
 
-#
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nottezz)](https://github.com/Nottezz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nottezz&layout=compact)](https://github.com/Nottezz/github-readme-stats)
+### ⚡ [FastCacheMiddleware](https://github.com/chud0/FastCacheMiddleware)
+High-performance caching middleware for FastAPI.  
+I’m contributing to improving core logic, Redis integration.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nottezz&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nottezz&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 💡 About Me
+
+- 🌱 Currently learning **web development** and building practical projects 
+- ⚡ Interested in **AI-powered automation**, **network security**, and **Python ecosystem design**  
+- 🛠️ Building open-source utilities to make development smoother  
+
+---
+
+<p align="center">
+  <a href="https://t.me/Nottezz"><img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://www.linkedin.com/in/nikita-yakovlev-900265247/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐️ *“The only way to do great work is to love what you do.”*  
+— **Steve Jobs**
+
