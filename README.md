@@ -44,9 +44,6 @@ I’m contributing to improving core logic, Redis integration.
 
 <p align="center">
   <a href="https://t.me/Nottezz"><img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://www.linkedin.com/in/nikita-yakovlev-900265247/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
 </p>
 
 ---
