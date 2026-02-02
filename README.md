@@ -8,7 +8,7 @@
 
 ## 🚀 My Projects
 
-### 🎥 [FastAPI Movie Catalog](https://github.com/Nottezz/FastAPI-Movie-Catalog)
+### 🎥 [Backlog](https://github.com/Nottezz/Backlog)
 A FastAPI web application displaying a movie catalog. **[IN-PROGRESS]**
 
 ### 💻 [FastAPI URL Shortener](https://github.com/Nottezz/fastapi-url-shortener)
